@@ -12,4 +12,4 @@ These configurations assume that you have:
 * Label Objects
 * Exclude Objects
 
-Once you've done the above, in your printers web config BACK UP YOUR EXISTING CONFIGURATIONS, then delete them ALL (except KAMP's configuration files) and copy over each of the .cfg files in this repository. Happy printing!
+Once you've done the above, in your printers web config BACK UP YOUR EXISTING CONFIGURATIONS, then delete them ALL (except KAMP's configuration files) and copy over each of the .cfg files in this repository. YOU SHOULD RETUNE INPUT SHAPER, PRESSURE ADVANCE, AND Z-OFFSET BEFORE PRINTING! Happy printing!
