@@ -12,7 +12,7 @@ These configurations assume that you have:
 * Label Objects
 * Exclude Objects
 
-Once you've done the above, in your printers web config BACK UP YOUR EXISTING CONFIGURATIONS, then delete them ALL (except KAMP's configuration files) and copy over each of the .cfg files in this repository. YOU SHOULD RETUNE INPUT SHAPER, PRESSURE ADVANCE, AND Z-OFFSET BEFORE PRINTING! Happy printing!
+Once you've done the above, in your printers web config BACK UP YOUR EXISTING CONFIGURATIONS, then delete them ALL except klipperscreen.comf and KAMP's configuration files, then copy over each of the .cfg files in this repository. YOU SHOULD RETUNE INPUT SHAPER, PRESSURE ADVANCE, AND Z-OFFSET BEFORE PRINTING! Happy printing!
 
 If you run into an error with the screen constantly rebooting, re-apply the firmware update from comgrow (even if you've done it before). The makerbase firmware can be touchy for some reason, havent quite worked out why. After re-updating the issue vanished, including between reboots. Thankfully it wont overwrite the new configurations. 
 
