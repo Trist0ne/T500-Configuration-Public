@@ -8,6 +8,8 @@ These configurations assume that you have:
 > Edited your Slicer's Start/End Code like this:
 * PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single] CHAMBER=[chamber_temperature]
 * PRINT_END
+  ![image](https://github.com/Trist0ne/T500-Configuration-Public/assets/41755299/cfad5544-82de-46a2-ad7c-49e3131569bb)
+
 > Additionally, if you're using Orca slicer, for best results in the 'others' tab you'll want to enable
 * Label Objects
 * Exclude Objects
