@@ -13,6 +13,7 @@ These configurations assume that you have:
 > Additionally, if you're using Orca slicer, for best results in the 'others' tab you'll want to enable
 * Label Objects
 * Exclude Objects
+* Arc Fitting
 
 Once you've done the above, in your printers web config BACK UP YOUR EXISTING CONFIGURATIONS, then delete them ALL except klipperscreen.conf, saved_variables, and KAMP's configuration files, then copy over each of the .cfg files in this repository. YOU SHOULD RETUNE INPUT SHAPER, PRESSURE ADVANCE, AND Z-OFFSET BEFORE PRINTING! Happy printing!
 
