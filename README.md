@@ -5,10 +5,11 @@ A Public repository with my optimized Klipper configurations for the T500 3D pri
 These configurations assume that you have:
 > Installed and configured KAMP https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging
 
-> Edited your Slicer's Start/End Code like this:
+> Edited your Slicer's Start/End Code like this (ALL IN ONE LINE):
 * PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single] CHAMBER=[chamber_temperature]
 * PRINT_END
-  ![image](https://github.com/Trist0ne/T500-Configuration-Public/assets/41755299/cfad5544-82de-46a2-ad7c-49e3131569bb)
+  ![Screenshot 2023-12-11 at 8 43 46 PM](https://github.com/Trist0ne/T500-Configuration-Public/assets/41755299/81664cf2-d13c-4ff8-9aad-0ed6432638cd)
+
 
 > Additionally, if you're using Orca slicer, for best results in the 'others' tab you'll want to enable
 * Label Objects
